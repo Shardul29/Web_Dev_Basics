@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shardul Blog</title>
+</head>
+<body>
+    <h1>Welcome to Shardul Blog</h1>
+    <h2>Welcome to Shardul Blog</h2>
+    <h3>Welcome to Shardul Blog</h3>
+    <h4>Welcome to Shardul Blog</h4>
+    <h5>Welcome to Shardul Blog</h5>
+    <h6>Welcome to Shardul Blog</h6>
+    <hr>
+    <p>Welcome to Shardul Blog.This is just a begining of the web development course 
+        and this is just a simple paragraph
+    </p>
+    <hr>
+<!-- HEloo this is a comment -->
+     <p><b>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</b>
+     Cum dolores officiis repudiandae cupiditate necessitatibus corporis 
+     voluptas veniam, nam sapiente, enim asperiores similique vitae. Voluptates officiis amet, omnis consequuntur odio odit!</p>
+     <hr>
+     <h2>Shopping List</h2>
+<ol type="I">
+    <li>First Item </li>
+    <li>Seconf  Item </li>
+    <li>Third  Item </li>
+    <li>Fourth Item </li>
+    <li>Fifth Item </li>
+</ol>
+<hr>
+<h2>Maggie Recipe</h2>
+<ul>
+    <li>Boil water</li>
+    <li>Add maggie </li>
+    <li>mix masala wait for 2 min
+        <ul>
+            <li>add tomato</li>
+            <li>add onion</li>
+        </ul>
+    </li>
+    <li>serve and eat</li>
+</ul>
+<hr>
+<a href="https://Google.com" target="_blank">Google</a>
+<br>
+<a href="page2.html" target="_blank">Page 2</a>
+<a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer"><h2>Facebook Website</h2></a>
+<hr>
+<img src="img/pexels-fauxels-3182812.jpg" alt="Error" width="350">
+<hr>
+<video src="vid/#3 _ Recurrence Relation _ Free Crash Course By Pankaj Sir _ CS_IT _ GATE 2021.mp4" width="400" autoplay controls loop></video>
+<hr>
+<!--
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FqpnI3CNLvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
+<iframe src="https://www.apnikaksha.com" width="350" frameborder="1"></iframe>
+<hr>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Roll No.</th>
+            <th>Subject</th>
+            <th>Address</th>
+            <th>School</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Shardul</td>
+            <td>63</td>
+            <td>CSE</td>
+            <td>Nehrugram</td>
+            <td>Doon Blossoms</td>
+        </tr>
+        <tr>
+            <td>Ann</td>
+            <td>66</td>
+            <td>CSE</td>
+            <td>Hell</td>
+            <td>Doon</td>
+        </tr>
+        <tr>
+            <td>Patt</td>
+            <td>58</td>
+            <td>CSE</td>
+            <td>Africa</td>
+            <td>DPS</td>
+        </tr>
+        <tr>
+            <td>Lizz</td>
+            <td>33</td>
+            <td>PSE</td>
+            <td>Amrica</td>
+            <td>Dosco</td>
+        </tr>
+        <tr>
+            <td>Truss</td>
+            <td>100</td>
+            <td>Art</td>
+            <td>Gram</td>
+            <td>Doom</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <th colspan="5">All In</th> 
+    </tfoot>
+</table>
+</body>
+</html>
